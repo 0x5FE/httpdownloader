@@ -2,10 +2,13 @@
 
 # Features
 
-    Downloads files from HTTP servers.
-    Provides progress monitoring with a download progress bar.
-    Handles various HTTP errors and exceptions gracefully.
-    Allows you to specify the destination directory for downloaded files.
+Downloads files from HTTP servers.
+
+Provides progress monitoring with a download progress bar.
+
+Handles various HTTP errors and exceptions gracefully.
+
+Allows you to specify the destination directory for downloaded files.
 
 # Prerequisites
 
