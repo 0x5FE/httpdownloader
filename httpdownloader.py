@@ -1,6 +1,6 @@
 import requests
 import os
-from tqdm import tqdm  # for progress bars
+from tqdm import tqdm  
 
 def download_file(url, dest_directory=None):
     try:
