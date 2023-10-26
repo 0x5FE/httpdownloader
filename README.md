@@ -31,13 +31,14 @@
     
 `"." with the desired download directory (default is the current directory).`
 
-![testehttp](https://github.com/0x5FE/httpdownloader/assets/65371336/09f91046-0352-4adf-ba65-451f99c91c2d)
-
-
 
 - The script will start the download the file and save it to the specified destination directory.
+  
+
+![testehttp](https://github.com/0x5FE/httpdownloader/assets/65371336/be40a68d-cb9a-4038-a460-a70f1c29a0de)
+  
 
 
-- Feel free to customize this documentation to fit your specific project and repository structure. 
+# Feel free to customize this documentation to fit your specific project and repository structure. 
 
 
